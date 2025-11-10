@@ -5,3 +5,12 @@ pandas==2.1.4
 openpyxl==3.1.2
 reportlab==4.0.7
 python-barcode==0.15.1
+# Inventory Management System - Requirements
+# Python 3.8 or higher required
+
+# Core dependencies (included with Python standard library)
+# tkinter - GUI framework (usually included with Python)
+# sqlite3 - Database (included with Python)
+
+# No external dependencies required!
+# This application uses only Python standard library modules.

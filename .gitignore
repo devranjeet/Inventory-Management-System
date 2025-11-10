@@ -28,6 +28,13 @@ wheels/
 *.sqlite
 *.sqlite3
 backup/
+*.egg-info/
+dist/
+build/
+
+# Database
+database/inventory.db
+*.db
 
 # IDE
 .vscode/
@@ -51,3 +58,12 @@ reports/*.csv
 # Temp files
 tmp/
 temp/
+# Virtual Environment
+venv/
+env/
+ENV/
+
+# Temporary files
+tmp/
+temp/
+*.tmp
