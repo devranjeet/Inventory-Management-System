@@ -4,6 +4,30 @@ __pycache__/
 *$py.class
 *.so
 .Python
+env/
+venv/
+ENV/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+backup/
 *.egg-info/
 dist/
 build/
@@ -26,6 +50,14 @@ Thumbs.db
 # Logs
 *.log
 
+# Reports
+reports/*.pdf
+reports/*.xlsx
+reports/*.csv
+
+# Temp files
+tmp/
+temp/
 # Virtual Environment
 venv/
 env/
