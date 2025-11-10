@@ -1,0 +1,9 @@
+# Inventory Management System - Requirements
+# Python 3.8 or higher required
+
+# Core dependencies (included with Python standard library)
+# tkinter - GUI framework (usually included with Python)
+# sqlite3 - Database (included with Python)
+
+# No external dependencies required!
+# This application uses only Python standard library modules.
